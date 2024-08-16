@@ -1,0 +1,1001 @@
+pizza_id,quantity,order_date,order_time,unit_price,pizza_size,pizza_category,pizza_name
+1,1,1/1/2015,11:38:36,13.25,M,Classic,The Hawaiian Pizza
+2,1,1/1/2015,11:57:40,16,M,Classic,The Classic Deluxe Pizza
+3,1,1/1/2015,11:57:40,18.5,L,Veggie,The Five Cheese Pizza
+4,1,1/1/2015,11:57:40,20.75,L,Supreme,The Italian Supreme Pizza
+5,1,1/1/2015,11:57:40,16,M,Veggie,The Mexicana Pizza
+6,1,1/1/2015,11:57:40,20.75,L,Chicken,The Thai Chicken Pizza
+7,1,1/1/2015,12:12:28,16.5,M,Supreme,The Italian Supreme Pizza
+8,1,1/1/2015,12:12:28,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+9,1,1/1/2015,12:16:31,16.5,M,Supreme,The Italian Supreme Pizza
+10,1,1/1/2015,12:21:30,16.5,M,Supreme,The Italian Supreme Pizza
+11,1,1/1/2015,12:29:36,12.75,S,Chicken,The Barbecue Chicken Pizza
+12,1,1/1/2015,12:29:36,12,S,Classic,The Greek Pizza
+13,1,1/1/2015,12:50:37,12.5,S,Supreme,The Spinach Supreme Pizza
+14,1,1/1/2015,12:51:37,12.5,S,Supreme,The Spinach Supreme Pizza
+15,1,1/1/2015,12:52:01,12,S,Classic,The Classic Deluxe Pizza
+16,1,1/1/2015,12:52:01,12,S,Veggie,The Green Garden Pizza
+17,1,1/1/2015,12:52:01,20.5,L,Classic,The Italian Capocollo Pizza
+18,1,1/1/2015,12:52:01,20.75,L,Supreme,The Italian Supreme Pizza
+19,1,1/1/2015,12:52:01,12.5,S,Supreme,The Italian Supreme Pizza
+20,1,1/1/2015,12:52:01,12,S,Veggie,The Mexicana Pizza
+21,1,1/1/2015,12:52:01,20.75,L,Supreme,The Spicy Italian Pizza
+22,1,1/1/2015,12:52:01,20.75,L,Veggie,The Spinach Pesto Pizza
+23,1,1/1/2015,12:52:01,12,S,Veggie,The Vegetables + Vegetables Pizza
+24,1,1/1/2015,13:00:15,20.25,L,Veggie,The Mexicana Pizza
+25,1,1/1/2015,13:00:15,20.75,L,Chicken,The Southwest Chicken Pizza
+26,1,1/1/2015,13:02:59,20.75,L,Chicken,The Barbecue Chicken Pizza
+27,1,1/1/2015,13:02:59,20.75,L,Chicken,The California Chicken Pizza
+28,1,1/1/2015,13:02:59,16.75,M,Chicken,The California Chicken Pizza
+29,1,1/1/2015,13:02:59,15.25,L,Classic,The Pepperoni Pizza
+30,1,1/1/2015,13:04:41,20.75,L,Chicken,The California Chicken Pizza
+31,1,1/1/2015,13:04:41,12.75,S,Chicken,The California Chicken Pizza
+32,1,1/1/2015,13:04:41,20.75,L,Chicken,The Chicken Pesto Pizza
+33,1,1/1/2015,13:04:41,16.5,M,Supreme,The Italian Supreme Pizza
+34,1,1/1/2015,13:11:55,20.25,L,Veggie,The Mexicana Pizza
+35,1,1/1/2015,13:14:19,12,S,Classic,The Greek Pizza
+36,1,1/1/2015,13:33:00,12,S,Classic,The Big Meat Pizza
+37,1,1/1/2015,13:33:00,18.5,L,Veggie,The Five Cheese Pizza
+38,1,1/1/2015,13:33:00,20.75,L,Supreme,The Soppressata Pizza
+39,1,1/1/2015,13:33:00,12,S,Classic,The Greek Pizza
+40,1,1/1/2015,13:34:07,17.95,L,Veggie,The Four Cheese Pizza
+41,1,1/1/2015,13:34:07,12,S,Classic,The Napolitana Pizza
+42,1,1/1/2015,13:34:07,20.75,L,Chicken,The Thai Chicken Pizza
+43,1,1/1/2015,13:53:00,20.75,L,Chicken,The Barbecue Chicken Pizza
+44,1,1/1/2015,13:53:00,16.25,M,Supreme,The Calabrese Pizza
+45,1,1/1/2015,13:53:00,18.5,L,Veggie,The Five Cheese Pizza
+46,1,1/1/2015,13:53:00,14.75,M,Veggie,The Four Cheese Pizza
+47,1,1/1/2015,13:53:00,16.5,M,Supreme,The Italian Supreme Pizza
+48,1,1/1/2015,13:53:00,12.75,S,Veggie,The Italian Vegetables Pizza
+49,2,1/1/2015,13:53:00,16,M,Veggie,The Mediterranean Pizza
+50,1,1/1/2015,13:53:00,20.25,L,Veggie,The Mexicana Pizza
+51,1,1/1/2015,13:53:00,12.5,S,Supreme,The Pepper Salami Pizza
+52,1,1/1/2015,13:53:00,20.25,L,Veggie,The Spinach and Feta Pizza
+53,1,1/1/2015,13:57:08,20.5,L,Classic,The Napolitana Pizza
+54,1,1/1/2015,13:59:09,20.5,L,Classic,The Italian Capocollo Pizza
+55,1,1/1/2015,13:59:09,20.25,L,Supreme,The Sicilian Pizza
+56,1,1/1/2015,14:03:08,12,S,Classic,The Big Meat Pizza
+57,1,1/1/2015,14:03:08,18.5,L,Veggie,The Five Cheese Pizza
+58,1,1/1/2015,14:14:29,20.5,L,Classic,The Italian Capocollo Pizza
+59,1,1/1/2015,14:16:26,18.5,L,Veggie,The Five Cheese Pizza
+60,1,1/1/2015,14:16:26,16,M,Classic,The Italian Capocollo Pizza
+61,1,1/1/2015,14:16:26,20.75,L,Chicken,The Southwest Chicken Pizza
+62,1,1/1/2015,14:19:03,12.75,S,Chicken,The Southwest Chicken Pizza
+63,1,1/1/2015,14:23:01,16.75,M,Chicken,The Barbecue Chicken Pizza
+64,1,1/1/2015,14:23:01,16,M,Classic,The Italian Capocollo Pizza
+65,1,1/1/2015,14:23:01,12.5,M,Classic,The Pepperoni Pizza
+66,1,1/1/2015,14:23:01,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+67,1,1/1/2015,14:44:44,16.25,M,Supreme,The Sicilian Pizza
+68,1,1/1/2015,14:44:44,20.75,L,Chicken,The Thai Chicken Pizza
+69,1,1/1/2015,14:54:26,12,S,Classic,The Classic Deluxe Pizza
+70,1,1/1/2015,14:54:26,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+71,1,1/1/2015,15:11:17,20.75,L,Chicken,The Barbecue Chicken Pizza
+72,1,1/1/2015,15:11:17,16,M,Classic,The Classic Deluxe Pizza
+73,1,1/1/2015,15:11:17,20.25,L,Veggie,The Spinach and Feta Pizza
+74,1,1/1/2015,15:35:46,12.75,S,Chicken,The Chicken Alfredo Pizza
+75,1,1/1/2015,15:41:01,12,S,Veggie,The Green Garden Pizza
+76,1,1/1/2015,15:41:25,20.75,L,Chicken,The Thai Chicken Pizza
+77,1,1/1/2015,15:50:18,16,M,Veggie,The Mexicana Pizza
+78,1,1/1/2015,15:50:18,9.75,S,Classic,The Pepperoni Pizza
+79,1,1/1/2015,15:53:18,12,S,Classic,The Big Meat Pizza
+80,1,1/1/2015,15:53:18,20.25,L,Veggie,The Green Garden Pizza
+81,1,1/1/2015,15:53:18,20.5,L,Classic,The Italian Capocollo Pizza
+82,1,1/1/2015,15:53:18,16.5,M,Supreme,The Italian Supreme Pizza
+83,1,1/1/2015,15:54:08,20.75,L,Chicken,The Barbecue Chicken Pizza
+84,1,1/1/2015,15:54:08,12,S,Veggie,The Green Garden Pizza
+85,1,1/1/2015,16:21:21,12,S,Classic,The Greek Pizza
+86,1,1/1/2015,16:32:04,16,M,Veggie,The Green Garden Pizza
+87,1,1/1/2015,16:32:04,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+88,1,1/1/2015,16:32:04,12.5,M,Classic,The Pepperoni Pizza
+89,1,1/1/2015,16:32:04,20.75,L,Chicken,The Thai Chicken Pizza
+90,1,1/1/2015,16:54:09,16.75,M,Chicken,The Barbecue Chicken Pizza
+91,1,1/1/2015,16:54:09,16,M,Classic,The Classic Deluxe Pizza
+92,1,1/1/2015,16:56:09,20.75,L,Supreme,The Italian Supreme Pizza
+93,1,1/1/2015,16:56:09,20.25,L,Veggie,The Mexicana Pizza
+94,1,1/1/2015,17:03:00,10.5,S,Classic,The Hawaiian Pizza
+95,1,1/1/2015,17:03:00,20.5,L,Classic,The Italian Capocollo Pizza
+96,1,1/1/2015,17:07:23,20.75,L,Supreme,The Italian Supreme Pizza
+97,1,1/1/2015,17:14:36,17.95,L,Veggie,The Four Cheese Pizza
+98,1,1/1/2015,17:14:36,12.75,S,Chicken,The Southwest Chicken Pizza
+99,1,1/1/2015,17:15:20,14.75,M,Veggie,The Four Cheese Pizza
+100,1,1/1/2015,17:15:20,12,S,Veggie,The Green Garden Pizza
+101,1,1/1/2015,17:28:09,12,S,Classic,The Big Meat Pizza
+102,1,1/1/2015,17:28:09,18.5,L,Veggie,The Five Cheese Pizza
+103,1,1/1/2015,17:28:09,20.25,L,Veggie,The Mexicana Pizza
+104,1,1/1/2015,17:28:09,16.5,M,Supreme,The Pepper Salami Pizza
+105,1,1/1/2015,17:38:34,16.75,M,Chicken,The Chicken Alfredo Pizza
+106,1,1/1/2015,17:38:34,16.5,M,Supreme,The Italian Supreme Pizza
+107,1,1/1/2015,17:38:34,20.75,L,Supreme,The Pepper Salami Pizza
+108,1,1/1/2015,17:54:20,12.5,S,Veggie,The Spinach Pesto Pizza
+109,1,1/1/2015,17:55:48,17.95,L,Veggie,The Four Cheese Pizza
+110,1,1/1/2015,17:55:48,10.5,S,Classic,The Hawaiian Pizza
+111,1,1/1/2015,17:55:48,16.75,M,Chicken,The Thai Chicken Pizza
+112,1,1/1/2015,18:25:51,20.75,L,Chicken,The Chicken Pesto Pizza
+113,1,1/1/2015,18:25:51,20.5,L,Classic,The Classic Deluxe Pizza
+114,1,1/1/2015,18:25:51,16.75,M,Chicken,The Thai Chicken Pizza
+115,1,1/1/2015,18:26:34,20.75,L,Chicken,The Southwest Chicken Pizza
+116,1,1/1/2015,18:26:34,12,S,Veggie,The Vegetables + Vegetables Pizza
+117,1,1/1/2015,18:26:42,16.75,M,Chicken,The Chicken Pesto Pizza
+118,1,1/1/2015,18:26:42,12,S,Veggie,The Green Garden Pizza
+119,1,1/1/2015,18:26:42,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+120,1,1/1/2015,18:26:42,20.75,L,Supreme,The Spicy Italian Pizza
+121,1,1/1/2015,18:33:00,20.25,L,Supreme,The Sicilian Pizza
+122,1,1/1/2015,18:41:01,25.5,XL,Classic,The Greek Pizza
+123,1,1/1/2015,18:48:28,20.75,L,Chicken,The Barbecue Chicken Pizza
+124,1,1/1/2015,18:48:28,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+125,1,1/1/2015,18:53:02,16.5,L,Classic,The Hawaiian Pizza
+126,1,1/1/2015,18:53:02,20.25,L,Veggie,The Mexicana Pizza
+127,1,1/1/2015,18:53:02,20.75,L,Supreme,The Spicy Italian Pizza
+128,1,1/1/2015,18:54:17,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+129,1,1/1/2015,18:54:17,16.5,M,Supreme,The Spinach Supreme Pizza
+130,1,1/1/2015,19:01:45,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+131,1,1/1/2015,19:01:45,20.75,L,Chicken,The Thai Chicken Pizza
+132,1,1/1/2015,19:03:19,12.5,S,Supreme,The Pepper Salami Pizza
+133,1,1/1/2015,19:03:19,20.75,L,Supreme,The Spicy Italian Pizza
+134,1,1/1/2015,19:07:00,16,M,Classic,The Classic Deluxe Pizza
+135,1,1/1/2015,19:07:00,20.25,L,Veggie,The Mediterranean Pizza
+136,1,1/1/2015,19:07:00,16.75,M,Chicken,The Southwest Chicken Pizza
+137,1,1/1/2015,19:10:51,16,M,Classic,The Classic Deluxe Pizza
+138,1,1/1/2015,19:30:40,18.5,L,Veggie,The Five Cheese Pizza
+139,1,1/1/2015,19:30:40,12.5,M,Classic,The Pepperoni Pizza
+140,1,1/1/2015,19:40:08,12.75,S,Veggie,The Italian Vegetables Pizza
+141,1,1/1/2015,19:40:08,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+142,1,1/1/2015,19:40:08,15.25,L,Classic,The Pepperoni Pizza
+143,1,1/1/2015,20:05:16,20.75,L,Chicken,The Chicken Pesto Pizza
+144,1,1/1/2015,20:05:16,14.75,M,Veggie,The Four Cheese Pizza
+145,1,1/1/2015,20:08:43,16.75,M,Chicken,The Barbecue Chicken Pizza
+146,1,1/1/2015,20:08:43,20.75,L,Supreme,The Italian Supreme Pizza
+147,1,1/1/2015,20:50:16,16.75,M,Chicken,The Barbecue Chicken Pizza
+148,1,1/1/2015,20:50:16,16.5,M,Supreme,The Spinach Supreme Pizza
+149,1,1/1/2015,20:51:42,14.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+150,1,1/1/2015,20:52:08,12,S,Classic,The Big Meat Pizza
+151,1,1/1/2015,21:16:00,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+152,1,1/1/2015,21:16:00,12.25,S,Supreme,The Sicilian Pizza
+153,1,1/1/2015,21:16:00,12.5,S,Supreme,The Spicy Italian Pizza
+154,1,1/1/2015,21:16:00,16.5,M,Supreme,The Spinach Supreme Pizza
+155,1,1/1/2015,21:47:55,16,M,Classic,The Classic Deluxe Pizza
+156,1,1/1/2015,21:47:55,16,M,Classic,The Italian Capocollo Pizza
+157,1,1/1/2015,22:03:40,20.75,L,Chicken,The Southwest Chicken Pizza
+158,1,1/1/2015,22:07:32,16,M,Classic,The Classic Deluxe Pizza
+159,1,1/1/2015,22:07:32,20.75,L,Supreme,The Italian Supreme Pizza
+160,1,1/1/2015,22:07:32,16.5,M,Supreme,The Italian Supreme Pizza
+161,1,1/1/2015,22:12:13,20.75,L,Chicken,The Barbecue Chicken Pizza
+162,1,2/1/2015,11:38:51,12.75,S,Veggie,The Italian Vegetables Pizza
+163,1,2/1/2015,11:38:51,20.75,L,Supreme,The Soppressata Pizza
+164,1,2/1/2015,11:40:50,20.75,L,Chicken,The Thai Chicken Pizza
+165,1,2/1/2015,11:57:25,20.25,L,Veggie,The Spinach and Feta Pizza
+166,1,2/1/2015,11:58:56,12.75,S,Chicken,The Thai Chicken Pizza
+167,1,2/1/2015,12:01:12,18.5,L,Veggie,The Five Cheese Pizza
+168,1,2/1/2015,12:01:12,20.25,L,Veggie,The Mexicana Pizza
+169,1,2/1/2015,12:01:12,12.5,S,Veggie,The Spinach Pesto Pizza
+170,1,2/1/2015,12:01:12,20.75,L,Supreme,The Spinach Supreme Pizza
+171,1,2/1/2015,12:10:15,12.5,S,Supreme,The Italian Supreme Pizza
+172,1,2/1/2015,12:10:15,20.25,L,Veggie,The Mediterranean Pizza
+173,1,2/1/2015,12:10:15,20.5,L,Classic,The Napolitana Pizza
+174,1,2/1/2015,12:21:17,12,S,Classic,The Big Meat Pizza
+175,1,2/1/2015,12:21:17,16.5,L,Classic,The Hawaiian Pizza
+176,1,2/1/2015,12:21:17,21,L,Veggie,The Italian Vegetables Pizza
+177,1,2/1/2015,12:21:17,20.75,L,Supreme,The Spicy Italian Pizza
+178,1,2/1/2015,12:22:46,16.75,M,Chicken,The Barbecue Chicken Pizza
+179,1,2/1/2015,12:22:46,13.25,M,Classic,The Hawaiian Pizza
+180,1,2/1/2015,12:28:14,12,S,Classic,The Big Meat Pizza
+181,1,2/1/2015,12:28:14,12,S,Classic,The Classic Deluxe Pizza
+182,1,2/1/2015,12:28:14,17.95,L,Veggie,The Four Cheese Pizza
+183,1,2/1/2015,12:28:14,16,M,Classic,The Italian Capocollo Pizza
+184,3,2/1/2015,12:28:14,20.75,L,Supreme,The Spicy Italian Pizza
+185,1,2/1/2015,12:28:14,12.75,S,Chicken,The Thai Chicken Pizza
+186,1,2/1/2015,12:29:11,20.5,L,Classic,The Italian Capocollo Pizza
+187,1,2/1/2015,12:29:11,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+188,1,2/1/2015,12:29:11,20.75,L,Chicken,The Thai Chicken Pizza
+189,1,2/1/2015,12:35:38,9.75,S,Classic,The Pepperoni Pizza
+190,1,2/1/2015,12:35:38,16.75,M,Chicken,The Thai Chicken Pizza
+191,1,2/1/2015,12:40:01,20.75,L,Chicken,The Thai Chicken Pizza
+192,1,2/1/2015,12:45:51,12,S,Classic,The Big Meat Pizza
+193,1,2/1/2015,12:45:51,16.75,M,Chicken,The California Chicken Pizza
+194,1,2/1/2015,12:45:51,20.75,L,Supreme,The Spicy Italian Pizza
+195,1,2/1/2015,12:45:51,16,M,Veggie,The Vegetables + Vegetables Pizza
+196,1,2/1/2015,12:53:27,12.75,S,Chicken,The Southwest Chicken Pizza
+197,1,2/1/2015,13:13:41,15.25,L,Classic,The Pepperoni Pizza
+198,1,2/1/2015,13:34:49,16,M,Classic,The Classic Deluxe Pizza
+199,1,2/1/2015,13:34:49,12,S,Classic,The Classic Deluxe Pizza
+200,1,2/1/2015,13:34:49,20.75,L,Supreme,The Italian Supreme Pizza
+201,1,2/1/2015,13:34:49,16,M,Classic,The Greek Pizza
+202,1,2/1/2015,13:40:31,16.5,L,Classic,The Hawaiian Pizza
+203,1,2/1/2015,14:01:02,16,M,Classic,The Italian Capocollo Pizza
+204,1,2/1/2015,14:01:02,16,M,Veggie,The Mexicana Pizza
+205,1,2/1/2015,14:01:02,20.75,L,Supreme,The Spinach Supreme Pizza
+206,1,2/1/2015,14:01:02,12.5,S,Supreme,The Spinach Supreme Pizza
+207,1,2/1/2015,14:10:08,18.5,L,Veggie,The Five Cheese Pizza
+208,1,2/1/2015,14:30:19,20.75,L,Supreme,The Soppressata Pizza
+209,1,2/1/2015,14:30:19,20.75,L,Chicken,The Thai Chicken Pizza
+210,1,2/1/2015,15:08:48,20.25,L,Supreme,The Sicilian Pizza
+211,1,2/1/2015,15:08:48,12.75,S,Chicken,The Thai Chicken Pizza
+212,2,2/1/2015,15:14:43,20.75,L,Chicken,The Barbecue Chicken Pizza
+213,1,2/1/2015,15:14:43,12.75,S,Chicken,The Chicken Pesto Pizza
+214,1,2/1/2015,15:14:43,9.75,S,Classic,The Pepperoni Pizza
+215,1,2/1/2015,15:17:02,16.75,M,Chicken,The Barbecue Chicken Pizza
+216,1,2/1/2015,15:17:02,20.75,L,Supreme,The Italian Supreme Pizza
+217,1,2/1/2015,15:17:02,16.5,M,Supreme,The Italian Supreme Pizza
+218,1,2/1/2015,15:17:02,12.75,S,Veggie,The Italian Vegetables Pizza
+219,1,2/1/2015,15:17:02,12.5,M,Classic,The Pepperoni Pizza
+220,1,2/1/2015,15:17:02,16.5,M,Supreme,The Pepper Salami Pizza
+221,1,2/1/2015,15:17:02,12,S,Veggie,The Spinach and Feta Pizza
+222,1,2/1/2015,15:17:02,12.5,S,Supreme,The Spinach Supreme Pizza
+223,2,2/1/2015,15:17:02,16,M,Classic,The Greek Pizza
+224,1,2/1/2015,15:29:31,16.25,M,Supreme,The Sicilian Pizza
+225,1,2/1/2015,16:17:16,16,M,Classic,The Italian Capocollo Pizza
+226,1,2/1/2015,16:17:16,12.75,S,Chicken,The Southwest Chicken Pizza
+227,1,2/1/2015,16:18:04,12,S,Classic,The Napolitana Pizza
+228,1,2/1/2015,16:18:04,20.75,L,Supreme,The Pepper Salami Pizza
+229,1,2/1/2015,16:21:20,12,S,Classic,The Napolitana Pizza
+230,1,2/1/2015,16:45:33,12,S,Classic,The Big Meat Pizza
+231,1,2/1/2015,17:18:18,20.5,L,Classic,The Classic Deluxe Pizza
+232,1,2/1/2015,17:18:18,20.5,L,Classic,The Napolitana Pizza
+233,1,2/1/2015,17:45:42,20.75,L,Supreme,The Italian Supreme Pizza
+234,1,2/1/2015,17:46:17,16.5,L,Classic,The Hawaiian Pizza
+235,1,2/1/2015,17:51:33,20.75,L,Chicken,The California Chicken Pizza
+236,1,2/1/2015,17:51:33,15.25,L,Classic,The Pepperoni Pizza
+237,1,2/1/2015,17:51:33,20.75,L,Supreme,The Soppressata Pizza
+238,1,2/1/2015,17:51:33,16.5,M,Supreme,The Spicy Italian Pizza
+239,1,2/1/2015,17:54:04,12.75,S,Chicken,The Barbecue Chicken Pizza
+240,1,2/1/2015,17:54:04,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+241,1,2/1/2015,18:02:09,12.5,S,Supreme,The Spinach Supreme Pizza
+242,1,2/1/2015,18:02:12,16.75,M,Chicken,The Barbecue Chicken Pizza
+243,1,2/1/2015,18:02:12,16.75,M,Chicken,The Chicken Alfredo Pizza
+244,1,2/1/2015,18:02:12,16.75,M,Veggie,The Italian Vegetables Pizza
+245,1,2/1/2015,18:02:12,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+246,2,2/1/2015,18:12:01,10.5,S,Classic,The Hawaiian Pizza
+247,1,2/1/2015,18:12:01,15.25,L,Classic,The Pepperoni Pizza
+248,1,2/1/2015,18:12:01,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+249,1,2/1/2015,18:12:13,20.25,L,Veggie,The Mexicana Pizza
+250,1,2/1/2015,18:12:13,20.75,L,Supreme,The Spicy Italian Pizza
+251,1,2/1/2015,18:25:09,20.75,L,Chicken,The California Chicken Pizza
+252,1,2/1/2015,18:25:09,16.5,M,Supreme,The Italian Supreme Pizza
+253,1,2/1/2015,18:25:09,20.75,L,Supreme,The Spicy Italian Pizza
+254,1,2/1/2015,18:25:09,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+255,1,2/1/2015,18:25:25,20.5,L,Classic,The Classic Deluxe Pizza
+256,1,2/1/2015,18:25:25,16.5,L,Classic,The Hawaiian Pizza
+257,1,2/1/2015,18:25:25,20.75,L,Supreme,The Spinach Supreme Pizza
+258,1,2/1/2015,18:27:50,20.5,L,Classic,The Italian Capocollo Pizza
+259,1,2/1/2015,18:27:50,20.75,L,Supreme,The Italian Supreme Pizza
+260,1,2/1/2015,18:27:50,12.5,M,Classic,The Pepperoni Pizza
+261,1,2/1/2015,18:27:50,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+262,1,2/1/2015,18:36:19,12,S,Classic,The Big Meat Pizza
+263,1,2/1/2015,18:36:19,20.5,L,Classic,The Napolitana Pizza
+264,1,2/1/2015,18:36:19,20.75,L,Supreme,The Soppressata Pizza
+265,1,2/1/2015,18:36:19,12.5,S,Supreme,The Spicy Italian Pizza
+266,1,2/1/2015,18:38:01,16.75,M,Chicken,The California Chicken Pizza
+267,1,2/1/2015,18:38:01,18.5,L,Veggie,The Five Cheese Pizza
+268,1,2/1/2015,18:38:01,12.5,M,Classic,The Pepperoni Pizza
+269,1,2/1/2015,18:38:01,20.75,L,Veggie,The Spinach Pesto Pizza
+270,1,2/1/2015,18:41:40,9.75,S,Classic,The Pepperoni Pizza
+271,1,2/1/2015,18:50:21,20.75,L,Chicken,The California Chicken Pizza
+272,1,2/1/2015,18:50:21,20.25,L,Veggie,The Mexicana Pizza
+273,1,2/1/2015,18:50:21,16.75,M,Chicken,The Southwest Chicken Pizza
+274,1,2/1/2015,18:59:32,15.25,L,Classic,The Pepperoni Pizza
+275,1,2/1/2015,18:59:32,12.25,S,Supreme,The Sicilian Pizza
+276,1,2/1/2015,19:05:17,12,S,Classic,The Big Meat Pizza
+277,1,2/1/2015,19:05:17,20.5,L,Classic,The Napolitana Pizza
+278,1,2/1/2015,19:05:17,16.75,M,Chicken,The Thai Chicken Pizza
+279,1,2/1/2015,19:18:49,18.5,L,Veggie,The Five Cheese Pizza
+280,1,2/1/2015,19:23:02,16.5,M,Supreme,The Pepper Salami Pizza
+281,1,2/1/2015,19:23:02,20.25,L,Supreme,The Sicilian Pizza
+282,1,2/1/2015,19:26:59,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+283,1,2/1/2015,19:26:59,12,S,Veggie,The Spinach and Feta Pizza
+284,1,2/1/2015,19:32:29,14.75,M,Veggie,The Four Cheese Pizza
+285,1,2/1/2015,19:35:07,12,S,Classic,The Classic Deluxe Pizza
+286,1,2/1/2015,19:35:07,10.5,S,Classic,The Hawaiian Pizza
+287,1,2/1/2015,19:35:07,20.25,L,Veggie,The Spinach and Feta Pizza
+288,1,2/1/2015,19:38:48,16.75,M,Chicken,The Barbecue Chicken Pizza
+289,1,2/1/2015,19:38:48,17.95,L,Veggie,The Four Cheese Pizza
+290,1,2/1/2015,19:38:48,20.25,L,Supreme,The Sicilian Pizza
+291,1,2/1/2015,19:38:48,20.75,L,Chicken,The Southwest Chicken Pizza
+292,1,2/1/2015,19:50:19,16.5,M,Supreme,The Italian Supreme Pizza
+293,1,2/1/2015,20:12:09,12,S,Classic,The Italian Capocollo Pizza
+294,1,2/1/2015,20:12:34,12.75,S,Chicken,The Barbecue Chicken Pizza
+295,1,2/1/2015,20:12:34,20.25,L,Supreme,The Sicilian Pizza
+296,1,2/1/2015,20:12:34,20.75,L,Supreme,The Spicy Italian Pizza
+297,1,2/1/2015,20:12:34,12,S,Classic,The Greek Pizza
+298,1,2/1/2015,20:31:06,25.5,XL,Classic,The Greek Pizza
+299,1,2/1/2015,20:53:42,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+300,1,2/1/2015,20:58:23,12.5,M,Classic,The Pepperoni Pizza
+301,1,2/1/2015,21:05:06,12.5,S,Supreme,The Spicy Italian Pizza
+302,1,2/1/2015,21:13:02,12,S,Classic,The Big Meat Pizza
+303,1,2/1/2015,21:13:02,16,M,Classic,The Greek Pizza
+304,1,2/1/2015,21:14:55,10.5,S,Classic,The Hawaiian Pizza
+305,1,2/1/2015,21:14:55,20.5,L,Classic,The Italian Capocollo Pizza
+306,1,2/1/2015,21:14:55,16,M,Veggie,The Mexicana Pizza
+307,1,2/1/2015,21:14:55,12.75,S,Chicken,The Southwest Chicken Pizza
+308,1,2/1/2015,21:33:10,20.75,L,Chicken,The Chicken Pesto Pizza
+309,1,2/1/2015,21:33:10,18.5,L,Veggie,The Five Cheese Pizza
+310,1,2/1/2015,21:33:10,12,S,Veggie,The Green Garden Pizza
+311,1,2/1/2015,21:33:10,12.5,S,Supreme,The Spinach Supreme Pizza
+312,1,2/1/2015,21:42:45,9.75,S,Classic,The Pepperoni Pizza
+313,1,2/1/2015,22:00:17,20.75,L,Chicken,The Barbecue Chicken Pizza
+314,1,2/1/2015,22:00:17,16.5,L,Classic,The Hawaiian Pizza
+315,1,2/1/2015,22:00:17,12,S,Classic,The Greek Pizza
+316,1,2/1/2015,22:13:24,12,S,Classic,The Big Meat Pizza
+317,1,2/1/2015,22:13:24,20.75,L,Chicken,The Southwest Chicken Pizza
+318,1,2/1/2015,22:13:24,12.5,S,Supreme,The Spinach Supreme Pizza
+319,1,2/1/2015,22:29:34,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+320,1,2/1/2015,22:32:49,18.5,L,Veggie,The Five Cheese Pizza
+321,1,2/1/2015,22:32:49,12.5,S,Supreme,The Pepper Salami Pizza
+322,1,3/1/2015,11:34:10,20.25,L,Veggie,The Mediterranean Pizza
+323,1,3/1/2015,11:34:10,9.75,S,Classic,The Pepperoni Pizza
+324,1,3/1/2015,11:34:10,16.5,M,Supreme,The Spicy Italian Pizza
+325,1,3/1/2015,11:44:50,16.75,M,Chicken,The California Chicken Pizza
+326,1,3/1/2015,11:44:50,17.95,L,Veggie,The Four Cheese Pizza
+327,1,3/1/2015,11:44:50,21,L,Veggie,The Italian Vegetables Pizza
+328,1,3/1/2015,11:44:50,16.25,M,Supreme,The Sicilian Pizza
+329,1,3/1/2015,11:57:39,18.5,L,Veggie,The Five Cheese Pizza
+330,1,3/1/2015,12:26:44,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+331,1,3/1/2015,12:26:44,16,M,Veggie,The Vegetables + Vegetables Pizza
+332,1,3/1/2015,13:16:01,16,M,Classic,The Classic Deluxe Pizza
+333,1,3/1/2015,13:33:59,16,M,Veggie,The Green Garden Pizza
+334,1,3/1/2015,13:41:36,12.75,S,Chicken,The California Chicken Pizza
+335,1,3/1/2015,13:41:36,12,S,Classic,The Classic Deluxe Pizza
+336,1,3/1/2015,13:41:36,16.5,L,Classic,The Hawaiian Pizza
+337,1,3/1/2015,13:41:36,16,M,Veggie,The Mexicana Pizza
+338,1,3/1/2015,13:41:36,15.25,L,Classic,The Pepperoni Pizza
+339,1,3/1/2015,13:41:36,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+340,1,3/1/2015,13:41:36,20.75,L,Chicken,The Thai Chicken Pizza
+341,1,3/1/2015,13:41:36,16,M,Veggie,The Vegetables + Vegetables Pizza
+342,3,3/1/2015,13:44:28,16.75,M,Chicken,The Barbecue Chicken Pizza
+343,1,3/1/2015,13:44:28,12,S,Classic,The Big Meat Pizza
+344,1,3/1/2015,13:44:28,20.75,L,Chicken,The California Chicken Pizza
+345,1,3/1/2015,13:44:28,16.75,M,Chicken,The Chicken Pesto Pizza
+346,1,3/1/2015,13:44:28,18.5,L,Veggie,The Five Cheese Pizza
+347,1,3/1/2015,13:44:28,17.95,L,Veggie,The Four Cheese Pizza
+348,1,3/1/2015,13:44:28,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+349,1,3/1/2015,13:44:28,20.75,L,Chicken,The Southwest Chicken Pizza
+350,1,3/1/2015,13:44:28,12.75,S,Chicken,The Southwest Chicken Pizza
+351,1,3/1/2015,13:44:28,20.75,L,Supreme,The Spicy Italian Pizza
+352,1,3/1/2015,13:44:28,16.75,M,Chicken,The Thai Chicken Pizza
+353,1,3/1/2015,13:44:28,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+354,1,3/1/2015,13:53:48,12,S,Classic,The Greek Pizza
+355,1,3/1/2015,14:22:10,20.75,L,Chicken,The California Chicken Pizza
+356,1,3/1/2015,14:22:10,14.75,M,Veggie,The Four Cheese Pizza
+357,1,3/1/2015,14:22:10,13.25,M,Classic,The Hawaiian Pizza
+358,1,3/1/2015,14:32:51,25.5,XL,Classic,The Greek Pizza
+359,1,3/1/2015,14:40:42,12,S,Veggie,The Mediterranean Pizza
+360,1,3/1/2015,14:48:45,16,M,Veggie,The Spinach and Feta Pizza
+361,1,3/1/2015,14:49:58,12.5,M,Classic,The Pepperoni Pizza
+362,1,3/1/2015,15:09:34,20.75,L,Chicken,The Southwest Chicken Pizza
+363,1,3/1/2015,15:09:34,12.5,S,Supreme,The Spinach Supreme Pizza
+364,1,3/1/2015,15:09:42,10.5,S,Classic,The Hawaiian Pizza
+365,1,3/1/2015,15:09:42,20.25,L,Veggie,The Spinach and Feta Pizza
+366,1,3/1/2015,15:09:42,12.75,S,Chicken,The Thai Chicken Pizza
+367,1,3/1/2015,15:09:42,16,M,Classic,The Greek Pizza
+368,1,3/1/2015,15:16:34,16,M,Veggie,The Mexicana Pizza
+369,1,3/1/2015,15:22:43,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+370,1,3/1/2015,15:28:59,12.75,S,Chicken,The Chicken Pesto Pizza
+371,1,3/1/2015,15:28:59,20.5,L,Classic,The Napolitana Pizza
+372,1,3/1/2015,15:28:59,15.25,L,Classic,The Pepperoni Pizza
+373,1,3/1/2015,15:28:59,20.75,L,Supreme,The Pepper Salami Pizza
+374,1,3/1/2015,15:42:19,16,M,Classic,The Napolitana Pizza
+375,1,3/1/2015,15:42:19,20.75,L,Chicken,The Thai Chicken Pizza
+376,1,3/1/2015,15:43:03,20.75,L,Supreme,The Italian Supreme Pizza
+377,1,3/1/2015,15:43:03,16,M,Veggie,The Mediterranean Pizza
+378,1,3/1/2015,15:43:03,16.25,M,Supreme,The Sicilian Pizza
+379,1,3/1/2015,15:43:03,16.5,M,Veggie,The Spinach Pesto Pizza
+380,1,3/1/2015,15:54:30,16.75,M,Veggie,The Italian Vegetables Pizza
+381,1,3/1/2015,15:54:30,16.75,M,Chicken,The Thai Chicken Pizza
+382,1,3/1/2015,15:59:22,17.95,L,Veggie,The Four Cheese Pizza
+383,1,3/1/2015,15:59:22,16.75,M,Chicken,The Thai Chicken Pizza
+384,1,3/1/2015,16:35:33,16,M,Classic,The Classic Deluxe Pizza
+385,1,3/1/2015,16:43:46,10.5,S,Classic,The Hawaiian Pizza
+386,1,3/1/2015,16:43:46,16.5,M,Supreme,The Spicy Italian Pizza
+387,1,3/1/2015,16:43:46,25.5,XL,Classic,The Greek Pizza
+388,1,3/1/2015,16:51:22,12,S,Classic,The Big Meat Pizza
+389,1,3/1/2015,16:54:54,13.25,M,Classic,The Hawaiian Pizza
+390,1,3/1/2015,16:54:54,15.25,L,Classic,The Pepperoni Pizza
+391,1,3/1/2015,16:54:54,16,M,Classic,The Greek Pizza
+392,1,3/1/2015,16:56:33,20.75,L,Chicken,The California Chicken Pizza
+393,1,3/1/2015,16:56:33,12.5,M,Classic,The Pepperoni Pizza
+394,1,3/1/2015,16:57:37,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+395,1,3/1/2015,16:58:51,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+396,1,3/1/2015,17:00:49,20.75,L,Chicken,The Barbecue Chicken Pizza
+397,1,3/1/2015,17:00:49,16.5,M,Supreme,The Italian Supreme Pizza
+398,1,3/1/2015,17:00:49,12.5,M,Classic,The Pepperoni Pizza
+399,1,3/1/2015,17:02:27,12,S,Classic,The Big Meat Pizza
+400,1,3/1/2015,17:02:27,16,M,Veggie,The Vegetables + Vegetables Pizza
+401,1,3/1/2015,17:15:48,17.95,L,Veggie,The Four Cheese Pizza
+402,1,3/1/2015,17:15:48,12,S,Classic,The Italian Capocollo Pizza
+403,1,3/1/2015,17:15:48,16.25,M,Supreme,The Sicilian Pizza
+404,1,3/1/2015,17:21:31,16.5,L,Classic,The Hawaiian Pizza
+405,1,3/1/2015,17:23:03,16,M,Classic,The Napolitana Pizza
+406,1,3/1/2015,17:29:24,12,S,Classic,The Napolitana Pizza
+407,1,3/1/2015,17:29:24,16.5,M,Supreme,The Spinach Supreme Pizza
+408,1,3/1/2015,17:29:24,20.75,L,Chicken,The Thai Chicken Pizza
+409,1,3/1/2015,17:35:30,16.75,M,Chicken,The California Chicken Pizza
+410,1,3/1/2015,17:35:30,16,M,Classic,The Classic Deluxe Pizza
+411,1,3/1/2015,17:35:30,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+412,1,3/1/2015,17:37:49,12,S,Classic,The Big Meat Pizza
+413,1,3/1/2015,17:37:49,20.75,L,Chicken,The California Chicken Pizza
+414,1,3/1/2015,17:37:49,16.75,M,Chicken,The California Chicken Pizza
+415,1,3/1/2015,17:37:49,16,M,Classic,The Italian Capocollo Pizza
+416,1,3/1/2015,17:50:51,20.75,L,Supreme,The Italian Supreme Pizza
+417,1,3/1/2015,17:51:57,20.75,L,Chicken,The California Chicken Pizza
+418,1,3/1/2015,17:51:57,16.5,M,Supreme,The Pepper Salami Pizza
+419,1,3/1/2015,17:54:36,12,S,Classic,The Napolitana Pizza
+420,1,3/1/2015,17:54:36,20.75,L,Chicken,The Thai Chicken Pizza
+421,1,3/1/2015,18:15:03,20.75,L,Supreme,The Pepper Salami Pizza
+422,1,3/1/2015,18:20:14,16.5,L,Classic,The Hawaiian Pizza
+423,1,3/1/2015,18:20:14,16.25,M,Supreme,The Sicilian Pizza
+424,1,3/1/2015,18:20:14,12,S,Veggie,The Vegetables + Vegetables Pizza
+425,1,3/1/2015,18:33:34,20.5,L,Classic,The Classic Deluxe Pizza
+426,1,3/1/2015,18:33:34,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+427,1,3/1/2015,18:49:32,20.25,L,Veggie,The Mexicana Pizza
+428,1,3/1/2015,18:50:10,23.65,S,Supreme,The Brie Carre Pizza
+429,1,3/1/2015,18:50:10,20.75,L,Supreme,The Pepper Salami Pizza
+430,1,3/1/2015,18:54:55,16,M,Classic,The Napolitana Pizza
+431,1,3/1/2015,18:54:55,20.75,L,Veggie,The Spinach Pesto Pizza
+432,1,3/1/2015,18:54:55,12.5,S,Veggie,The Spinach Pesto Pizza
+433,1,3/1/2015,18:59:05,16.5,L,Classic,The Hawaiian Pizza
+434,1,3/1/2015,19:08:33,16.25,M,Supreme,The Sicilian Pizza
+435,1,3/1/2015,19:08:33,12.5,S,Veggie,The Spinach Pesto Pizza
+436,1,3/1/2015,19:36:00,20.25,L,Veggie,The Mexicana Pizza
+437,1,3/1/2015,19:36:00,20.75,L,Chicken,The Southwest Chicken Pizza
+438,1,3/1/2015,19:36:00,20.75,L,Veggie,The Spinach Pesto Pizza
+439,1,3/1/2015,19:36:00,20.75,L,Chicken,The Thai Chicken Pizza
+440,1,3/1/2015,19:37:12,18.5,L,Veggie,The Five Cheese Pizza
+441,1,3/1/2015,19:37:12,20.75,L,Veggie,The Spinach Pesto Pizza
+442,1,3/1/2015,20:08:39,18.5,L,Veggie,The Five Cheese Pizza
+443,1,3/1/2015,20:08:39,9.75,S,Classic,The Pepperoni Pizza
+444,1,3/1/2015,20:08:39,20.75,L,Supreme,The Pepper Salami Pizza
+445,2,3/1/2015,20:12:14,12,S,Classic,The Big Meat Pizza
+446,1,3/1/2015,20:12:14,12.75,S,Chicken,The Thai Chicken Pizza
+447,1,3/1/2015,20:14:23,20.75,L,Chicken,The Barbecue Chicken Pizza
+448,1,3/1/2015,20:14:23,14.75,M,Veggie,The Four Cheese Pizza
+449,1,3/1/2015,20:14:23,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+450,1,3/1/2015,20:14:23,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+451,1,3/1/2015,20:24:50,20.75,L,Chicken,The California Chicken Pizza
+452,1,3/1/2015,20:24:50,16.75,M,Chicken,The Chicken Alfredo Pizza
+453,1,3/1/2015,20:30:08,12.25,S,Supreme,The Sicilian Pizza
+454,1,3/1/2015,20:30:08,20.75,L,Chicken,The Southwest Chicken Pizza
+455,1,3/1/2015,20:55:47,12,S,Classic,The Big Meat Pizza
+456,1,3/1/2015,20:55:47,16.75,M,Chicken,The California Chicken Pizza
+457,2,3/1/2015,20:55:47,20.75,L,Chicken,The Chicken Alfredo Pizza
+458,1,3/1/2015,21:21:24,12.75,S,Chicken,The Barbecue Chicken Pizza
+459,1,3/1/2015,21:25:20,20.75,L,Chicken,The Barbecue Chicken Pizza
+460,1,3/1/2015,21:40:14,12.25,S,Supreme,The Sicilian Pizza
+461,1,3/1/2015,21:40:14,16.5,M,Supreme,The Spicy Italian Pizza
+462,1,3/1/2015,21:40:14,16,M,Veggie,The Vegetables + Vegetables Pizza
+463,1,3/1/2015,21:47:48,17.95,L,Veggie,The Four Cheese Pizza
+464,1,3/1/2015,21:47:48,20.5,L,Classic,The Italian Capocollo Pizza
+465,1,3/1/2015,21:47:48,21,L,Veggie,The Italian Vegetables Pizza
+466,1,3/1/2015,21:47:48,20.75,L,Supreme,The Soppressata Pizza
+467,1,3/1/2015,21:55:42,12,S,Classic,The Big Meat Pizza
+468,1,3/1/2015,21:55:42,20.75,L,Chicken,The Chicken Alfredo Pizza
+469,1,3/1/2015,22:10:38,16.75,M,Chicken,The Chicken Alfredo Pizza
+470,1,3/1/2015,22:24:05,25.5,XL,Classic,The Greek Pizza
+471,1,3/1/2015,22:29:59,16.25,M,Supreme,The Calabrese Pizza
+472,1,3/1/2015,22:29:59,20.75,L,Chicken,The Chicken Pesto Pizza
+473,1,3/1/2015,22:29:59,20.75,L,Supreme,The Italian Supreme Pizza
+474,1,3/1/2015,22:29:59,25.5,XL,Classic,The Greek Pizza
+475,1,3/1/2015,22:50:29,12.75,S,Chicken,The California Chicken Pizza
+476,1,4/1/2015,11:30:48,20.75,L,Chicken,The California Chicken Pizza
+477,1,4/1/2015,11:30:48,16.75,M,Veggie,The Italian Vegetables Pizza
+478,1,4/1/2015,11:30:48,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+479,1,4/1/2015,11:30:48,12,S,Classic,The Greek Pizza
+480,1,4/1/2015,11:36:25,20.75,L,Supreme,The Spicy Italian Pizza
+481,1,4/1/2015,11:43:54,12.75,S,Chicken,The California Chicken Pizza
+482,1,4/1/2015,11:43:54,16.75,M,Chicken,The Chicken Alfredo Pizza
+483,1,4/1/2015,11:43:54,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+484,1,4/1/2015,11:45:10,16,M,Classic,The Napolitana Pizza
+485,1,4/1/2015,11:45:10,9.75,S,Classic,The Pepperoni Pizza
+486,1,4/1/2015,11:45:10,20.75,L,Supreme,The Spicy Italian Pizza
+487,1,4/1/2015,12:03:58,20.75,L,Supreme,The Spicy Italian Pizza
+488,1,4/1/2015,12:12:05,20.75,L,Chicken,The Barbecue Chicken Pizza
+489,1,4/1/2015,12:12:05,12.75,S,Chicken,The Barbecue Chicken Pizza
+490,1,4/1/2015,12:12:05,16.75,M,Chicken,The Chicken Alfredo Pizza
+491,1,4/1/2015,12:12:05,12.5,M,Classic,The Pepperoni Pizza
+492,1,4/1/2015,12:12:05,16,M,Classic,The Greek Pizza
+493,1,4/1/2015,12:29:17,20.75,L,Chicken,The California Chicken Pizza
+494,1,4/1/2015,12:34:13,12,S,Veggie,The Spinach and Feta Pizza
+495,1,4/1/2015,12:54:20,9.75,S,Classic,The Pepperoni Pizza
+496,1,4/1/2015,13:16:03,20.5,L,Classic,The Italian Capocollo Pizza
+497,1,4/1/2015,13:20:39,17.95,L,Veggie,The Four Cheese Pizza
+498,1,4/1/2015,13:39:16,20.5,L,Classic,The Italian Capocollo Pizza
+499,1,4/1/2015,13:39:16,16.5,M,Supreme,The Italian Supreme Pizza
+500,1,4/1/2015,13:39:16,12,S,Veggie,The Mexicana Pizza
+501,1,4/1/2015,13:39:16,16.5,M,Veggie,The Spinach Pesto Pizza
+502,1,4/1/2015,13:44:49,12,S,Veggie,The Green Garden Pizza
+503,1,4/1/2015,14:31:56,16.75,M,Chicken,The Barbecue Chicken Pizza
+504,1,4/1/2015,14:31:56,18.5,L,Veggie,The Five Cheese Pizza
+505,1,4/1/2015,14:31:56,16.5,L,Classic,The Hawaiian Pizza
+506,1,4/1/2015,14:35:03,16,M,Classic,The Classic Deluxe Pizza
+507,1,4/1/2015,14:35:03,12,S,Veggie,The Spinach and Feta Pizza
+508,1,4/1/2015,14:35:11,16.5,M,Supreme,The Spicy Italian Pizza
+509,1,4/1/2015,14:42:01,20.75,L,Chicken,The Barbecue Chicken Pizza
+510,1,4/1/2015,14:42:01,18.5,L,Veggie,The Five Cheese Pizza
+511,1,4/1/2015,14:42:01,16.5,M,Supreme,The Pepper Salami Pizza
+512,1,4/1/2015,14:42:01,16,M,Veggie,The Spinach and Feta Pizza
+513,1,4/1/2015,15:31:59,10.5,S,Classic,The Hawaiian Pizza
+514,1,4/1/2015,15:31:59,12,S,Classic,The Italian Capocollo Pizza
+515,1,4/1/2015,15:31:59,20.5,L,Classic,The Napolitana Pizza
+516,1,4/1/2015,15:31:59,20.75,L,Supreme,The Spicy Italian Pizza
+517,1,4/1/2015,15:33:18,18.5,L,Veggie,The Five Cheese Pizza
+518,1,4/1/2015,15:33:18,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+519,1,4/1/2015,15:33:18,12,S,Classic,The Greek Pizza
+520,1,4/1/2015,15:46:38,17.95,L,Veggie,The Four Cheese Pizza
+521,1,4/1/2015,15:46:38,12.25,S,Supreme,The Sicilian Pizza
+522,1,4/1/2015,16:08:20,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+523,1,4/1/2015,16:39:58,12.75,S,Chicken,The Chicken Alfredo Pizza
+524,1,4/1/2015,16:39:58,16.5,M,Supreme,The Italian Supreme Pizza
+525,1,4/1/2015,16:39:58,16,M,Classic,The Napolitana Pizza
+526,1,4/1/2015,16:39:58,20.75,L,Chicken,The Thai Chicken Pizza
+527,1,4/1/2015,16:41:48,20.75,L,Chicken,The Barbecue Chicken Pizza
+528,1,4/1/2015,16:41:48,16.75,M,Chicken,The Barbecue Chicken Pizza
+529,1,4/1/2015,16:41:48,12.75,S,Chicken,The Southwest Chicken Pizza
+530,1,4/1/2015,16:59:39,20.5,L,Classic,The Classic Deluxe Pizza
+531,1,4/1/2015,17:24:39,16.75,M,Chicken,The Barbecue Chicken Pizza
+532,1,4/1/2015,17:24:39,16,M,Classic,The Greek Pizza
+533,1,4/1/2015,17:31:24,12.75,S,Veggie,The Italian Vegetables Pizza
+534,1,4/1/2015,17:37:57,21,L,Veggie,The Italian Vegetables Pizza
+535,1,4/1/2015,17:37:57,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+536,1,4/1/2015,17:37:57,12.5,S,Veggie,The Spinach Pesto Pizza
+537,1,4/1/2015,17:58:38,16.75,M,Chicken,The Thai Chicken Pizza
+538,1,4/1/2015,18:04:18,20.75,L,Chicken,The California Chicken Pizza
+539,1,4/1/2015,18:04:18,12,S,Classic,The Napolitana Pizza
+540,1,4/1/2015,18:04:18,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+541,1,4/1/2015,18:21:59,16.75,M,Chicken,The Barbecue Chicken Pizza
+542,1,4/1/2015,18:21:59,20.75,L,Supreme,The Spinach Supreme Pizza
+543,1,4/1/2015,18:26:51,12,S,Veggie,The Spinach and Feta Pizza
+544,1,4/1/2015,18:36:09,16.75,M,Chicken,The Chicken Alfredo Pizza
+545,1,4/1/2015,18:36:09,12.5,S,Supreme,The Italian Supreme Pizza
+546,1,4/1/2015,18:36:09,16,M,Classic,The Napolitana Pizza
+547,1,4/1/2015,18:51:30,16.75,M,Chicken,The California Chicken Pizza
+548,1,4/1/2015,19:21:04,20.5,L,Classic,The Classic Deluxe Pizza
+549,1,4/1/2015,19:21:04,16,M,Veggie,The Green Garden Pizza
+550,1,4/1/2015,19:27:48,12,S,Veggie,The Green Garden Pizza
+551,1,4/1/2015,19:45:15,20.75,L,Veggie,The Spinach Pesto Pizza
+552,1,4/1/2015,19:57:52,20.75,L,Supreme,The Italian Supreme Pizza
+553,1,4/1/2015,19:57:52,16.75,M,Chicken,The Thai Chicken Pizza
+554,1,4/1/2015,20:10:24,14.75,M,Veggie,The Four Cheese Pizza
+555,1,4/1/2015,20:11:25,16.25,M,Supreme,The Sicilian Pizza
+556,1,4/1/2015,20:11:25,20.75,L,Supreme,The Spinach Supreme Pizza
+557,1,4/1/2015,20:15:29,16.25,M,Supreme,The Calabrese Pizza
+558,1,4/1/2015,20:15:29,20.75,L,Chicken,The Thai Chicken Pizza
+559,1,4/1/2015,20:15:29,16,M,Veggie,The Vegetables + Vegetables Pizza
+560,1,4/1/2015,20:26:17,20.5,L,Classic,The Classic Deluxe Pizza
+561,1,4/1/2015,20:26:17,12.5,S,Supreme,The Spinach Supreme Pizza
+562,1,4/1/2015,20:26:22,12.5,S,Supreme,The Italian Supreme Pizza
+563,1,4/1/2015,20:26:22,20.75,L,Supreme,The Spicy Italian Pizza
+564,1,4/1/2015,20:28:41,20.75,L,Chicken,The Barbecue Chicken Pizza
+565,1,4/1/2015,20:28:41,20.75,L,Chicken,The Chicken Pesto Pizza
+566,1,4/1/2015,20:30:48,16.75,M,Chicken,The Chicken Alfredo Pizza
+567,1,4/1/2015,20:30:48,15.25,L,Classic,The Pepperoni Pizza
+568,1,4/1/2015,20:55:29,13.25,M,Classic,The Hawaiian Pizza
+569,1,4/1/2015,20:55:29,16.25,M,Supreme,The Sicilian Pizza
+570,1,4/1/2015,20:55:29,12.5,S,Supreme,The Spinach Supreme Pizza
+571,1,4/1/2015,20:58:19,10.5,S,Classic,The Hawaiian Pizza
+572,1,4/1/2015,20:58:19,20.75,L,Chicken,The Thai Chicken Pizza
+573,1,4/1/2015,21:06:16,20.75,L,Chicken,The Barbecue Chicken Pizza
+574,1,4/1/2015,21:06:16,12.25,S,Supreme,The Calabrese Pizza
+575,1,4/1/2015,21:07:05,14.75,M,Veggie,The Four Cheese Pizza
+576,1,4/1/2015,21:10:05,16,M,Veggie,The Mexicana Pizza
+577,1,4/1/2015,22:13:15,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+578,1,4/1/2015,22:16:18,23.65,S,Supreme,The Brie Carre Pizza
+579,1,4/1/2015,22:22:13,20.75,L,Chicken,The Barbecue Chicken Pizza
+580,1,4/1/2015,22:22:13,23.65,S,Supreme,The Brie Carre Pizza
+581,1,4/1/2015,22:22:13,18.5,L,Veggie,The Five Cheese Pizza
+582,1,5/1/2015,11:23:35,18.5,L,Veggie,The Five Cheese Pizza
+583,1,5/1/2015,11:23:35,16,M,Veggie,The Green Garden Pizza
+584,1,5/1/2015,11:23:35,16.5,L,Classic,The Hawaiian Pizza
+585,1,5/1/2015,11:23:35,16,M,Veggie,The Spinach and Feta Pizza
+586,1,5/1/2015,11:56:06,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+587,1,5/1/2015,11:59:04,20.75,L,Chicken,The California Chicken Pizza
+588,1,5/1/2015,11:59:04,20.75,L,Chicken,The Chicken Alfredo Pizza
+589,1,5/1/2015,11:59:23,16,M,Classic,The Classic Deluxe Pizza
+590,1,5/1/2015,12:04:25,15.25,L,Classic,The Pepperoni Pizza
+591,1,5/1/2015,12:06:27,18.5,L,Veggie,The Five Cheese Pizza
+592,1,5/1/2015,12:06:27,20.5,L,Classic,The Greek Pizza
+593,1,5/1/2015,12:38:29,23.65,S,Supreme,The Brie Carre Pizza
+594,1,5/1/2015,12:42:01,16.75,M,Chicken,The California Chicken Pizza
+595,1,5/1/2015,12:57:22,20.75,L,Veggie,The Spinach Pesto Pizza
+596,1,5/1/2015,13:03:59,16,M,Veggie,The Mexicana Pizza
+597,1,5/1/2015,13:04:42,16.75,M,Chicken,The Chicken Alfredo Pizza
+598,1,5/1/2015,13:04:42,20.25,L,Veggie,The Mexicana Pizza
+599,1,5/1/2015,13:04:42,16.25,M,Supreme,The Sicilian Pizza
+600,1,5/1/2015,13:04:42,20.75,L,Supreme,The Spicy Italian Pizza
+601,1,5/1/2015,13:09:29,16.5,M,Supreme,The Pepper Salami Pizza
+602,1,5/1/2015,13:37:50,17.95,L,Veggie,The Four Cheese Pizza
+603,1,5/1/2015,13:37:50,20.25,L,Veggie,The Mediterranean Pizza
+604,1,5/1/2015,13:37:50,12,S,Classic,The Napolitana Pizza
+605,1,5/1/2015,13:40:46,20.75,L,Supreme,The Italian Supreme Pizza
+606,1,5/1/2015,13:40:46,9.75,S,Classic,The Pepperoni Pizza
+607,1,5/1/2015,13:49:34,16.75,M,Chicken,The Chicken Alfredo Pizza
+608,1,5/1/2015,14:09:02,20.75,L,Chicken,The Southwest Chicken Pizza
+609,1,5/1/2015,14:09:02,20.75,L,Veggie,The Spinach Pesto Pizza
+610,1,5/1/2015,14:09:02,20.75,L,Chicken,The Thai Chicken Pizza
+611,1,5/1/2015,14:22:19,12,S,Classic,The Big Meat Pizza
+612,2,5/1/2015,14:22:19,16.75,M,Chicken,The California Chicken Pizza
+613,2,5/1/2015,14:22:19,16.75,M,Chicken,The Chicken Alfredo Pizza
+614,2,5/1/2015,14:22:19,20.75,L,Chicken,The Chicken Pesto Pizza
+615,1,5/1/2015,14:22:19,16,M,Classic,The Classic Deluxe Pizza
+616,1,5/1/2015,14:22:19,16.5,M,Supreme,The Italian Supreme Pizza
+617,1,5/1/2015,14:22:19,12.25,S,Supreme,The Sicilian Pizza
+618,1,5/1/2015,14:22:19,16.5,M,Supreme,The Soppressata Pizza
+619,1,5/1/2015,14:22:19,16.75,M,Chicken,The Southwest Chicken Pizza
+620,1,5/1/2015,14:22:19,12,S,Classic,The Greek Pizza
+621,1,5/1/2015,14:24:05,16.5,M,Supreme,The Italian Supreme Pizza
+622,1,5/1/2015,14:28:00,12.5,S,Supreme,The Soppressata Pizza
+623,1,5/1/2015,14:36:33,17.95,L,Veggie,The Four Cheese Pizza
+624,1,5/1/2015,14:36:33,20.75,L,Chicken,The Thai Chicken Pizza
+625,1,5/1/2015,14:38:14,20.5,L,Classic,The Classic Deluxe Pizza
+626,1,5/1/2015,14:38:14,18.5,L,Veggie,The Five Cheese Pizza
+627,1,5/1/2015,14:38:14,9.75,S,Classic,The Pepperoni Pizza
+628,1,5/1/2015,14:38:14,16.25,M,Supreme,The Sicilian Pizza
+629,1,5/1/2015,15:18:18,18.5,L,Veggie,The Five Cheese Pizza
+630,1,5/1/2015,15:18:18,20.75,L,Supreme,The Spicy Italian Pizza
+631,1,5/1/2015,15:41:50,14.75,M,Veggie,The Four Cheese Pizza
+632,1,5/1/2015,15:49:21,16.75,M,Veggie,The Italian Vegetables Pizza
+633,1,5/1/2015,15:49:21,20.75,L,Chicken,The Southwest Chicken Pizza
+634,1,5/1/2015,16:07:03,16.75,M,Chicken,The California Chicken Pizza
+635,1,5/1/2015,16:07:03,16.75,M,Chicken,The Chicken Alfredo Pizza
+636,1,5/1/2015,16:20:23,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+637,1,5/1/2015,16:20:23,16,M,Veggie,The Vegetables + Vegetables Pizza
+638,1,5/1/2015,16:33:48,12.25,S,Supreme,The Sicilian Pizza
+639,1,5/1/2015,16:49:38,12,S,Classic,The Classic Deluxe Pizza
+640,1,5/1/2015,16:49:38,18.5,L,Veggie,The Five Cheese Pizza
+641,1,5/1/2015,16:49:38,20.75,L,Supreme,The Pepper Salami Pizza
+642,1,5/1/2015,16:49:38,20.75,L,Veggie,The Spinach Pesto Pizza
+643,1,5/1/2015,16:51:43,16,M,Classic,The Napolitana Pizza
+644,1,5/1/2015,16:58:16,14.75,M,Veggie,The Four Cheese Pizza
+645,1,5/1/2015,16:58:16,10.5,S,Classic,The Hawaiian Pizza
+646,1,5/1/2015,16:58:16,16,M,Classic,The Napolitana Pizza
+647,1,5/1/2015,16:58:38,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+648,1,5/1/2015,17:01:23,16.5,M,Supreme,The Italian Supreme Pizza
+649,1,5/1/2015,17:01:23,20.75,L,Supreme,The Pepper Salami Pizza
+650,1,5/1/2015,17:30:09,16.5,M,Supreme,The Italian Supreme Pizza
+651,1,5/1/2015,17:30:09,14.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+652,1,5/1/2015,17:30:09,12.5,M,Classic,The Pepperoni Pizza
+653,1,5/1/2015,17:30:09,12.25,S,Supreme,The Sicilian Pizza
+654,1,5/1/2015,17:32:44,23.65,S,Supreme,The Brie Carre Pizza
+655,1,5/1/2015,17:32:44,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+656,1,5/1/2015,17:32:44,20.75,L,Supreme,The Spinach Supreme Pizza
+657,1,5/1/2015,17:36:23,18.5,L,Veggie,The Five Cheese Pizza
+658,1,5/1/2015,17:41:16,12,S,Classic,The Classic Deluxe Pizza
+659,1,5/1/2015,17:41:16,16,M,Veggie,The Vegetables + Vegetables Pizza
+660,1,5/1/2015,17:44:39,20.75,L,Chicken,The Barbecue Chicken Pizza
+661,2,5/1/2015,17:44:39,16.75,M,Chicken,The Chicken Alfredo Pizza
+662,1,5/1/2015,17:44:39,14.75,M,Veggie,The Four Cheese Pizza
+663,1,5/1/2015,17:48:59,16.5,M,Veggie,The Spinach Pesto Pizza
+664,1,5/1/2015,17:48:59,20.25,L,Veggie,The Spinach and Feta Pizza
+665,1,5/1/2015,17:58:38,12,S,Classic,The Classic Deluxe Pizza
+666,1,5/1/2015,17:58:38,12.75,S,Veggie,The Italian Vegetables Pizza
+667,1,5/1/2015,18:16:35,16.75,M,Chicken,The Barbecue Chicken Pizza
+668,1,5/1/2015,18:16:35,20.75,L,Supreme,The Italian Supreme Pizza
+669,1,5/1/2015,18:16:35,20.75,L,Chicken,The Thai Chicken Pizza
+670,1,5/1/2015,18:20:12,16.75,M,Chicken,The California Chicken Pizza
+671,1,5/1/2015,18:46:54,12,S,Veggie,The Green Garden Pizza
+672,1,5/1/2015,18:46:54,12,S,Classic,The Italian Capocollo Pizza
+673,1,5/1/2015,18:46:54,16.75,M,Chicken,The Thai Chicken Pizza
+674,1,5/1/2015,19:02:18,16.75,M,Chicken,The Southwest Chicken Pizza
+675,1,5/1/2015,19:10:36,16.75,M,Chicken,The California Chicken Pizza
+676,1,5/1/2015,19:10:36,12.75,S,Chicken,The California Chicken Pizza
+677,1,5/1/2015,19:10:36,16.75,M,Chicken,The Chicken Alfredo Pizza
+678,1,5/1/2015,19:10:36,12,S,Classic,The Classic Deluxe Pizza
+679,1,5/1/2015,19:34:31,12,S,Classic,The Classic Deluxe Pizza
+680,1,5/1/2015,19:34:31,16,M,Veggie,The Spinach and Feta Pizza
+681,1,5/1/2015,19:42:54,12,S,Classic,The Big Meat Pizza
+682,1,5/1/2015,19:42:54,12,S,Classic,The Italian Capocollo Pizza
+683,1,5/1/2015,19:42:54,12.75,S,Veggie,The Italian Vegetables Pizza
+684,1,5/1/2015,19:42:54,12.5,S,Supreme,The Spinach Supreme Pizza
+685,1,5/1/2015,19:45:58,20.5,L,Classic,The Napolitana Pizza
+686,1,5/1/2015,19:57:37,20.75,L,Supreme,The Pepper Salami Pizza
+687,1,5/1/2015,20:02:51,12,S,Classic,The Big Meat Pizza
+688,1,5/1/2015,20:02:51,16,M,Classic,The Italian Capocollo Pizza
+689,1,5/1/2015,20:02:51,9.75,S,Classic,The Pepperoni Pizza
+690,1,5/1/2015,20:07:58,10.5,S,Classic,The Hawaiian Pizza
+691,1,5/1/2015,20:07:58,20.25,L,Veggie,The Mexicana Pizza
+692,1,5/1/2015,20:35:40,15.25,L,Classic,The Pepperoni Pizza
+693,1,5/1/2015,20:35:40,12.25,S,Supreme,The Sicilian Pizza
+694,1,5/1/2015,20:35:40,16.5,M,Supreme,The Spicy Italian Pizza
+695,1,5/1/2015,20:37:40,12,S,Classic,The Big Meat Pizza
+696,1,5/1/2015,20:37:40,10.5,S,Classic,The Hawaiian Pizza
+697,1,5/1/2015,20:37:40,16,M,Classic,The Napolitana Pizza
+698,1,5/1/2015,21:45:38,20.5,L,Classic,The Classic Deluxe Pizza
+699,1,5/1/2015,21:45:38,16.75,M,Chicken,The Thai Chicken Pizza
+700,1,5/1/2015,21:59:46,16.5,L,Classic,The Hawaiian Pizza
+701,1,5/1/2015,21:59:46,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+702,1,5/1/2015,21:59:46,12.75,S,Chicken,The Thai Chicken Pizza
+703,1,6/1/2015,11:39:06,18.5,L,Veggie,The Five Cheese Pizza
+704,1,6/1/2015,11:39:06,16.5,M,Supreme,The Pepper Salami Pizza
+705,1,6/1/2015,11:40:48,10.5,S,Classic,The Hawaiian Pizza
+706,1,6/1/2015,11:40:48,12.75,S,Chicken,The Thai Chicken Pizza
+707,1,6/1/2015,11:57:27,20.25,L,Supreme,The Sicilian Pizza
+708,1,6/1/2015,12:05:21,12,S,Classic,The Big Meat Pizza
+709,1,6/1/2015,12:05:21,23.65,S,Supreme,The Brie Carre Pizza
+710,1,6/1/2015,12:05:21,16.75,M,Chicken,The Chicken Alfredo Pizza
+711,1,6/1/2015,12:05:21,16.25,M,Supreme,The Sicilian Pizza
+712,1,6/1/2015,12:09:09,16,M,Classic,The Classic Deluxe Pizza
+713,1,6/1/2015,12:11:58,16.25,M,Supreme,The Calabrese Pizza
+714,1,6/1/2015,12:11:58,18.5,L,Veggie,The Five Cheese Pizza
+715,1,6/1/2015,12:11:58,16,M,Veggie,The Green Garden Pizza
+716,1,6/1/2015,12:11:58,13.25,M,Classic,The Hawaiian Pizza
+717,1,6/1/2015,12:11:58,16,M,Veggie,The Vegetables + Vegetables Pizza
+718,1,6/1/2015,12:17:40,16,M,Classic,The Classic Deluxe Pizza
+719,1,6/1/2015,12:29:34,10.5,S,Classic,The Hawaiian Pizza
+720,1,6/1/2015,12:29:34,16.5,M,Supreme,The Italian Supreme Pizza
+721,1,6/1/2015,12:31:00,12.75,S,Chicken,The California Chicken Pizza
+722,1,6/1/2015,12:31:00,16,M,Classic,The Classic Deluxe Pizza
+723,1,6/1/2015,12:31:00,17.95,L,Veggie,The Four Cheese Pizza
+724,1,6/1/2015,12:31:00,10.5,S,Classic,The Hawaiian Pizza
+725,1,6/1/2015,12:31:00,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+726,1,6/1/2015,12:31:00,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+727,1,6/1/2015,12:31:00,12,S,Veggie,The Spinach and Feta Pizza
+728,1,6/1/2015,12:45:14,20.5,L,Classic,The Italian Capocollo Pizza
+729,1,6/1/2015,12:45:14,20.25,L,Veggie,The Mexicana Pizza
+730,1,6/1/2015,12:45:14,12.5,S,Supreme,The Soppressata Pizza
+731,1,6/1/2015,12:45:14,20.75,L,Supreme,The Spicy Italian Pizza
+732,1,6/1/2015,12:46:22,16.5,M,Supreme,The Italian Supreme Pizza
+733,1,6/1/2015,12:46:40,16.75,M,Chicken,The California Chicken Pizza
+734,1,6/1/2015,12:46:40,20.75,L,Chicken,The Chicken Pesto Pizza
+735,1,6/1/2015,12:56:21,20.75,L,Supreme,The Italian Supreme Pizza
+736,1,6/1/2015,13:02:13,20.75,L,Chicken,The California Chicken Pizza
+737,1,6/1/2015,13:02:13,20.75,L,Chicken,The Chicken Pesto Pizza
+738,1,6/1/2015,13:02:13,12,S,Classic,The Classic Deluxe Pizza
+739,1,6/1/2015,13:02:13,20.75,L,Chicken,The Thai Chicken Pizza
+740,1,6/1/2015,13:05:33,16,M,Classic,The Classic Deluxe Pizza
+741,1,6/1/2015,13:06:44,18.5,L,Veggie,The Five Cheese Pizza
+742,1,6/1/2015,13:07:32,12,S,Classic,The Classic Deluxe Pizza
+743,1,6/1/2015,13:07:32,12,S,Veggie,The Vegetables + Vegetables Pizza
+744,1,6/1/2015,13:10:13,16.75,M,Chicken,The California Chicken Pizza
+745,1,6/1/2015,13:10:13,20.75,L,Supreme,The Spinach Supreme Pizza
+746,1,6/1/2015,13:10:54,16,M,Classic,The Classic Deluxe Pizza
+747,1,6/1/2015,13:16:35,20.25,L,Veggie,The Mediterranean Pizza
+748,1,6/1/2015,13:22:44,20.75,L,Supreme,The Spicy Italian Pizza
+749,1,6/1/2015,13:22:44,16.5,M,Supreme,The Spinach Supreme Pizza
+750,1,6/1/2015,13:27:11,12,S,Classic,The Big Meat Pizza
+751,1,6/1/2015,13:27:11,16.75,M,Chicken,The Chicken Alfredo Pizza
+752,1,6/1/2015,13:27:11,16,M,Classic,The Classic Deluxe Pizza
+753,1,6/1/2015,13:27:11,12,S,Classic,The Classic Deluxe Pizza
+754,1,6/1/2015,13:27:11,18.5,L,Veggie,The Five Cheese Pizza
+755,2,6/1/2015,13:27:11,17.95,L,Veggie,The Four Cheese Pizza
+756,1,6/1/2015,13:27:11,16.5,L,Classic,The Hawaiian Pizza
+757,1,6/1/2015,13:27:11,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+758,1,6/1/2015,13:27:11,12.5,S,Supreme,The Pepper Salami Pizza
+759,1,6/1/2015,13:27:11,20.25,L,Supreme,The Sicilian Pizza
+760,1,6/1/2015,13:27:11,20.75,L,Supreme,The Spicy Italian Pizza
+761,1,6/1/2015,13:27:11,16.5,M,Supreme,The Spicy Italian Pizza
+762,1,6/1/2015,13:27:11,20.25,L,Veggie,The Spinach and Feta Pizza
+763,1,6/1/2015,13:27:11,16,M,Classic,The Greek Pizza
+764,1,6/1/2015,13:43:30,16.5,M,Supreme,The Prosciutto and Arugula Pizza
+765,1,6/1/2015,14:12:01,16.25,M,Supreme,The Sicilian Pizza
+766,1,6/1/2015,14:12:01,20.75,L,Chicken,The Southwest Chicken Pizza
+767,1,6/1/2015,14:12:01,16.75,M,Chicken,The Thai Chicken Pizza
+768,1,6/1/2015,14:16:36,16.75,M,Chicken,The Chicken Alfredo Pizza
+769,1,6/1/2015,14:24:18,20.25,L,Supreme,The Calabrese Pizza
+770,1,6/1/2015,14:24:18,12.5,M,Classic,The Pepperoni Pizza
+771,1,6/1/2015,14:24:18,16.75,M,Chicken,The Southwest Chicken Pizza
+772,1,6/1/2015,14:24:18,20.75,L,Chicken,The Thai Chicken Pizza
+773,1,6/1/2015,14:24:47,20.25,L,Veggie,The Mediterranean Pizza
+774,1,6/1/2015,14:51:41,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+775,1,6/1/2015,15:03:12,16.5,L,Classic,The Hawaiian Pizza
+776,1,6/1/2015,15:03:12,15.25,L,Classic,The Pepperoni Pizza
+777,1,6/1/2015,15:18:26,20.25,L,Veggie,The Mexicana Pizza
+778,1,6/1/2015,15:18:26,20.75,L,Chicken,The Thai Chicken Pizza
+779,1,6/1/2015,15:18:26,25.5,XL,Classic,The Greek Pizza
+780,1,6/1/2015,15:25:13,16.5,M,Supreme,The Spicy Italian Pizza
+781,1,6/1/2015,15:35:32,12.5,S,Supreme,The Pepper Salami Pizza
+782,1,6/1/2015,15:35:47,16.75,M,Chicken,The Barbecue Chicken Pizza
+783,1,6/1/2015,15:35:47,9.75,S,Classic,The Pepperoni Pizza
+784,1,6/1/2015,15:44:12,20.25,L,Supreme,The Sicilian Pizza
+785,1,6/1/2015,15:44:12,20.75,L,Chicken,The Southwest Chicken Pizza
+786,1,6/1/2015,15:45:37,18.5,L,Veggie,The Five Cheese Pizza
+787,1,6/1/2015,15:45:37,14.75,M,Veggie,The Four Cheese Pizza
+788,1,6/1/2015,16:01:11,16,M,Classic,The Italian Capocollo Pizza
+789,1,6/1/2015,16:01:47,12.5,S,Supreme,The Pepper Salami Pizza
+790,1,6/1/2015,16:01:47,12,S,Veggie,The Spinach and Feta Pizza
+791,1,6/1/2015,16:30:00,12,S,Veggie,The Green Garden Pizza
+792,1,6/1/2015,16:30:00,10.5,S,Classic,The Hawaiian Pizza
+793,1,6/1/2015,16:30:00,20.5,L,Classic,The Italian Capocollo Pizza
+794,1,6/1/2015,16:30:00,12,S,Classic,The Napolitana Pizza
+795,1,6/1/2015,16:37:17,20.25,L,Veggie,The Spinach and Feta Pizza
+796,1,6/1/2015,16:37:17,20.75,L,Chicken,The Thai Chicken Pizza
+797,1,6/1/2015,16:37:17,16,M,Veggie,The Vegetables + Vegetables Pizza
+798,1,6/1/2015,16:49:12,16,M,Classic,The Classic Deluxe Pizza
+799,1,6/1/2015,16:49:12,20.75,L,Chicken,The Thai Chicken Pizza
+800,1,6/1/2015,16:49:12,12.75,S,Chicken,The Thai Chicken Pizza
+801,1,6/1/2015,17:25:58,15.25,L,Classic,The Pepperoni Pizza
+802,1,6/1/2015,17:37:05,20.5,L,Classic,The Classic Deluxe Pizza
+803,2,6/1/2015,17:37:05,12.5,M,Classic,The Pepperoni Pizza
+804,1,6/1/2015,17:37:05,12.5,S,Supreme,The Spicy Italian Pizza
+805,1,6/1/2015,17:37:29,12,S,Classic,The Big Meat Pizza
+806,1,6/1/2015,17:37:29,13.25,M,Classic,The Hawaiian Pizza
+807,1,6/1/2015,17:45:48,12,S,Classic,The Big Meat Pizza
+808,1,6/1/2015,17:45:48,20.5,L,Classic,The Italian Capocollo Pizza
+809,1,6/1/2015,17:59:48,20.75,L,Chicken,The Barbecue Chicken Pizza
+810,1,6/1/2015,17:59:48,20.75,L,Chicken,The California Chicken Pizza
+811,1,6/1/2015,17:59:48,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+812,1,6/1/2015,18:01:44,12,S,Veggie,The Green Garden Pizza
+813,1,6/1/2015,18:01:44,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+814,1,6/1/2015,18:14:45,16.75,M,Chicken,The Chicken Alfredo Pizza
+815,1,6/1/2015,18:14:45,16.5,M,Supreme,The Italian Supreme Pizza
+816,1,6/1/2015,18:16:05,16.75,M,Chicken,The Chicken Alfredo Pizza
+817,1,6/1/2015,18:27:58,20.75,L,Chicken,The California Chicken Pizza
+818,1,6/1/2015,18:27:58,12.75,S,Chicken,The Southwest Chicken Pizza
+819,1,6/1/2015,18:27:58,12,S,Veggie,The Spinach and Feta Pizza
+820,1,6/1/2015,18:30:12,16.5,M,Supreme,The Italian Supreme Pizza
+821,1,6/1/2015,18:33:08,16,M,Veggie,The Green Garden Pizza
+822,1,6/1/2015,18:33:08,20.75,L,Chicken,The Thai Chicken Pizza
+823,1,6/1/2015,18:50:38,20.75,L,Chicken,The Barbecue Chicken Pizza
+824,1,6/1/2015,18:50:38,12,S,Veggie,The Green Garden Pizza
+825,1,6/1/2015,18:50:38,10.5,S,Classic,The Hawaiian Pizza
+826,2,6/1/2015,19:12:38,12,S,Classic,The Big Meat Pizza
+827,1,6/1/2015,19:12:38,12,S,Classic,The Italian Capocollo Pizza
+828,1,6/1/2015,19:13:36,16.75,M,Chicken,The Barbecue Chicken Pizza
+829,1,6/1/2015,19:13:36,20.25,L,Veggie,The Mexicana Pizza
+830,1,6/1/2015,19:20:31,20.25,L,Veggie,The Mediterranean Pizza
+831,1,6/1/2015,19:20:31,20.25,L,Veggie,The Mexicana Pizza
+832,1,6/1/2015,19:27:24,16.5,M,Supreme,The Italian Supreme Pizza
+833,1,6/1/2015,19:27:24,25.5,XL,Classic,The Greek Pizza
+834,1,6/1/2015,19:37:26,14.75,M,Veggie,The Four Cheese Pizza
+835,1,6/1/2015,19:37:26,20.25,L,Veggie,The Mediterranean Pizza
+836,1,6/1/2015,19:37:26,12.5,M,Classic,The Pepperoni Pizza
+837,1,6/1/2015,20:04:20,20.5,L,Classic,The Italian Capocollo Pizza
+838,1,6/1/2015,20:05:12,16.5,L,Classic,The Hawaiian Pizza
+839,1,6/1/2015,20:05:12,16,M,Veggie,The Spinach and Feta Pizza
+840,1,6/1/2015,20:28:16,16.5,M,Veggie,The Spinach Pesto Pizza
+841,1,6/1/2015,20:28:16,20.75,L,Chicken,The Thai Chicken Pizza
+842,1,6/1/2015,20:30:06,16,M,Veggie,The Spinach and Feta Pizza
+843,1,6/1/2015,21:02:30,17.95,L,Veggie,The Four Cheese Pizza
+844,1,6/1/2015,21:02:30,10.5,S,Classic,The Hawaiian Pizza
+845,1,6/1/2015,21:15:20,12.5,M,Classic,The Pepperoni Pizza
+846,1,6/1/2015,22:26:59,12,S,Veggie,The Spinach and Feta Pizza
+847,1,7/1/2015,11:45:18,12.75,S,Chicken,The Chicken Pesto Pizza
+848,1,7/1/2015,11:45:18,16,M,Classic,The Classic Deluxe Pizza
+849,1,7/1/2015,11:45:18,20.25,L,Supreme,The Sicilian Pizza
+850,1,7/1/2015,11:55:59,12,S,Classic,The Big Meat Pizza
+851,1,7/1/2015,11:55:59,16.75,M,Chicken,The Chicken Alfredo Pizza
+852,1,7/1/2015,11:55:59,12.5,S,Supreme,The Pepper Salami Pizza
+853,1,7/1/2015,11:58:36,16,M,Veggie,The Mexicana Pizza
+854,1,7/1/2015,12:01:17,25.5,XL,Classic,The Greek Pizza
+855,1,7/1/2015,12:01:17,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+856,1,7/1/2015,12:03:18,13.25,M,Classic,The Hawaiian Pizza
+857,1,7/1/2015,12:03:18,20.75,L,Chicken,The Thai Chicken Pizza
+858,1,7/1/2015,12:19:37,12.75,S,Veggie,The Italian Vegetables Pizza
+859,1,7/1/2015,12:25:37,20.75,L,Chicken,The Thai Chicken Pizza
+860,1,7/1/2015,12:32:10,16.25,M,Supreme,The Calabrese Pizza
+861,1,7/1/2015,12:32:10,16.75,M,Chicken,The California Chicken Pizza
+862,1,7/1/2015,12:33:06,16.75,M,Chicken,The Southwest Chicken Pizza
+863,1,7/1/2015,12:33:07,12.75,S,Chicken,The Thai Chicken Pizza
+864,1,7/1/2015,12:33:07,16,M,Veggie,The Vegetables + Vegetables Pizza
+865,1,7/1/2015,12:43:59,16.5,M,Supreme,The Spicy Italian Pizza
+866,1,7/1/2015,12:51:46,10.5,S,Classic,The Hawaiian Pizza
+867,1,7/1/2015,12:51:46,16,M,Classic,The Italian Capocollo Pizza
+868,1,7/1/2015,12:51:46,16,M,Veggie,The Mediterranean Pizza
+869,1,7/1/2015,12:51:46,12,S,Classic,The Greek Pizza
+870,1,7/1/2015,12:54:19,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+871,1,7/1/2015,12:58:16,12.75,S,Veggie,The Italian Vegetables Pizza
+872,1,7/1/2015,12:58:16,16.5,M,Supreme,The Soppressata Pizza
+873,1,7/1/2015,12:58:16,16.75,M,Chicken,The Thai Chicken Pizza
+874,1,7/1/2015,13:03:14,12.75,S,Chicken,The Barbecue Chicken Pizza
+875,1,7/1/2015,13:03:14,12,S,Classic,The Big Meat Pizza
+876,1,7/1/2015,13:03:14,16.75,M,Chicken,The Chicken Pesto Pizza
+877,1,7/1/2015,13:03:14,18.5,L,Veggie,The Five Cheese Pizza
+878,1,7/1/2015,13:03:14,9.75,S,Classic,The Pepperoni Pizza
+879,1,7/1/2015,13:03:14,20.75,L,Supreme,The Spicy Italian Pizza
+880,1,7/1/2015,13:03:14,12,S,Veggie,The Spinach and Feta Pizza
+881,1,7/1/2015,13:04:56,12.75,S,Chicken,The Barbecue Chicken Pizza
+882,1,7/1/2015,13:04:56,16.75,M,Chicken,The Chicken Alfredo Pizza
+883,1,7/1/2015,13:04:56,16,M,Veggie,The Mediterranean Pizza
+884,1,7/1/2015,13:04:56,12,S,Veggie,The Vegetables + Vegetables Pizza
+885,1,7/1/2015,13:10:17,20.75,L,Veggie,The Spinach Pesto Pizza
+886,1,7/1/2015,13:15:32,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+887,1,7/1/2015,13:25:31,16,M,Classic,The Greek Pizza
+888,1,7/1/2015,13:36:47,12,S,Classic,The Big Meat Pizza
+889,1,7/1/2015,13:36:47,12.25,S,Supreme,The Calabrese Pizza
+890,1,7/1/2015,13:36:47,20.75,L,Chicken,The California Chicken Pizza
+891,2,7/1/2015,13:36:47,9.75,S,Classic,The Pepperoni Pizza
+892,1,7/1/2015,13:36:47,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+893,1,7/1/2015,13:36:47,20.25,L,Supreme,The Sicilian Pizza
+894,1,7/1/2015,13:36:47,20.75,L,Supreme,The Soppressata Pizza
+895,1,7/1/2015,13:36:47,20.75,L,Supreme,The Spicy Italian Pizza
+896,1,7/1/2015,13:48:31,12,S,Veggie,The Green Garden Pizza
+897,1,7/1/2015,13:48:31,16.5,L,Classic,The Hawaiian Pizza
+898,1,7/1/2015,14:02:18,12,S,Classic,The Big Meat Pizza
+899,1,7/1/2015,14:02:18,12.75,S,Chicken,The Chicken Pesto Pizza
+900,1,7/1/2015,14:02:18,16.5,L,Classic,The Hawaiian Pizza
+901,1,7/1/2015,14:02:18,10.5,S,Classic,The Hawaiian Pizza
+902,1,7/1/2015,14:02:18,17.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+903,3,7/1/2015,14:02:18,12.5,M,Classic,The Pepperoni Pizza
+904,1,7/1/2015,14:02:18,9.75,S,Classic,The Pepperoni Pizza
+905,1,7/1/2015,14:02:18,20.25,L,Supreme,The Sicilian Pizza
+906,1,7/1/2015,14:02:18,20.75,L,Supreme,The Spicy Italian Pizza
+907,1,7/1/2015,14:02:18,12.5,S,Veggie,The Spinach Pesto Pizza
+908,1,7/1/2015,14:02:18,20.75,L,Chicken,The Thai Chicken Pizza
+909,1,7/1/2015,14:02:18,12,S,Veggie,The Vegetables + Vegetables Pizza
+910,1,7/1/2015,14:11:08,16,M,Classic,The Napolitana Pizza
+911,1,7/1/2015,14:12:21,12,S,Veggie,The Spinach and Feta Pizza
+912,2,7/1/2015,14:31:10,18.5,L,Veggie,The Five Cheese Pizza
+913,1,7/1/2015,14:31:10,16.5,L,Classic,The Hawaiian Pizza
+914,1,7/1/2015,14:31:10,12.5,M,Classic,The Pepperoni Pizza
+915,1,7/1/2015,14:56:26,9.75,S,Classic,The Pepperoni Pizza
+916,1,7/1/2015,15:47:49,16.75,M,Chicken,The Barbecue Chicken Pizza
+917,1,7/1/2015,15:47:49,20.75,L,Chicken,The California Chicken Pizza
+918,1,7/1/2015,15:47:49,14.75,M,Veggie,The Four Cheese Pizza
+919,1,7/1/2015,15:47:49,16,M,Classic,The Greek Pizza
+920,1,7/1/2015,16:03:07,12.5,M,Classic,The Pepperoni Pizza
+921,1,7/1/2015,16:03:07,20.75,L,Chicken,The Thai Chicken Pizza
+922,1,7/1/2015,16:08:35,16,M,Veggie,The Vegetables + Vegetables Pizza
+923,1,7/1/2015,16:24:46,17.95,L,Veggie,The Four Cheese Pizza
+924,1,7/1/2015,16:24:46,16.5,M,Supreme,The Italian Supreme Pizza
+925,1,7/1/2015,16:26:10,12.75,S,Chicken,The Barbecue Chicken Pizza
+926,1,7/1/2015,16:26:10,20.5,L,Classic,The Classic Deluxe Pizza
+927,1,7/1/2015,16:26:10,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+928,1,7/1/2015,16:39:27,20.75,L,Chicken,The Chicken Pesto Pizza
+929,1,7/1/2015,16:44:16,20.25,L,Supreme,The Sicilian Pizza
+930,1,7/1/2015,16:50:49,16.75,M,Chicken,The Chicken Alfredo Pizza
+931,1,7/1/2015,16:50:49,16,M,Classic,The Classic Deluxe Pizza
+932,1,7/1/2015,16:50:49,12.75,S,Veggie,The Italian Vegetables Pizza
+933,1,7/1/2015,16:56:42,16.75,M,Chicken,The California Chicken Pizza
+934,1,7/1/2015,16:56:42,20.5,L,Classic,The Classic Deluxe Pizza
+935,1,7/1/2015,16:56:42,12.5,M,Classic,The Pepperoni Pizza
+936,1,7/1/2015,17:09:09,23.65,S,Supreme,The Brie Carre Pizza
+937,1,7/1/2015,17:09:09,16.5,M,Supreme,The Pepper Salami Pizza
+938,1,7/1/2015,17:15:04,15.25,L,Classic,The Pepperoni Pizza
+939,2,7/1/2015,17:33:49,12,S,Classic,The Big Meat Pizza
+940,1,7/1/2015,17:33:49,16,M,Veggie,The Mediterranean Pizza
+941,1,7/1/2015,17:33:49,25.5,XL,Classic,The Greek Pizza
+942,1,7/1/2015,17:58:09,16.5,M,Supreme,The Italian Supreme Pizza
+943,1,7/1/2015,17:58:09,20.75,L,Chicken,The Southwest Chicken Pizza
+944,1,7/1/2015,18:07:46,23.65,S,Supreme,The Brie Carre Pizza
+945,1,7/1/2015,18:07:46,16.5,M,Supreme,The Spinach Supreme Pizza
+946,1,7/1/2015,18:11:32,12,S,Classic,The Greek Pizza
+947,1,7/1/2015,18:13:22,12,S,Classic,The Classic Deluxe Pizza
+948,1,7/1/2015,18:13:22,18.5,L,Veggie,The Five Cheese Pizza
+949,1,7/1/2015,18:13:22,16.5,M,Supreme,The Italian Supreme Pizza
+950,1,7/1/2015,18:16:23,12.75,S,Chicken,The California Chicken Pizza
+951,1,7/1/2015,18:17:42,20.25,L,Veggie,The Spinach and Feta Pizza
+952,1,7/1/2015,18:24:40,9.75,S,Classic,The Pepperoni Pizza
+953,1,7/1/2015,18:40:11,16.75,M,Chicken,The Chicken Pesto Pizza
+954,1,7/1/2015,18:40:11,16.25,M,Supreme,The Sicilian Pizza
+955,1,7/1/2015,19:02:31,20.75,L,Chicken,The Barbecue Chicken Pizza
+956,1,7/1/2015,19:02:31,16.5,L,Classic,The Hawaiian Pizza
+957,1,7/1/2015,19:02:31,16.75,M,Veggie,The Italian Vegetables Pizza
+958,1,7/1/2015,19:02:31,12,S,Veggie,The Vegetables + Vegetables Pizza
+959,1,7/1/2015,19:04:40,18.5,L,Veggie,The Five Cheese Pizza
+960,1,7/1/2015,19:04:40,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+961,1,7/1/2015,19:21:58,20.75,L,Chicken,The Barbecue Chicken Pizza
+962,1,7/1/2015,19:21:58,20.25,L,Supreme,The Calabrese Pizza
+963,1,7/1/2015,19:21:58,12.75,S,Chicken,The Chicken Pesto Pizza
+964,1,7/1/2015,19:30:25,17.95,L,Veggie,The Four Cheese Pizza
+965,1,7/1/2015,19:30:25,16.5,M,Supreme,The Italian Supreme Pizza
+966,1,7/1/2015,19:30:25,16,M,Veggie,The Spinach and Feta Pizza
+967,1,7/1/2015,19:45:07,20.75,L,Supreme,The Italian Supreme Pizza
+968,1,7/1/2015,19:45:07,12.25,S,Supreme,The Sicilian Pizza
+969,1,7/1/2015,20:01:28,12.5,M,Classic,The Pepperoni Pizza
+970,1,7/1/2015,20:21:19,16.5,M,Supreme,The Soppressata Pizza
+971,1,7/1/2015,20:25:45,16,M,Classic,The Classic Deluxe Pizza
+972,1,7/1/2015,20:25:45,12.25,S,Supreme,The Sicilian Pizza
+973,1,7/1/2015,20:25:45,16.5,M,Supreme,The Soppressata Pizza
+974,1,7/1/2015,21:49:00,20.25,L,Veggie,The Spinach and Feta Pizza
+975,1,7/1/2015,22:05:00,20.25,L,Supreme,The Calabrese Pizza
+976,1,7/1/2015,22:05:00,12,S,Classic,The Italian Capocollo Pizza
+977,1,7/1/2015,22:16:53,16.5,M,Supreme,The Spicy Italian Pizza
+978,1,7/1/2015,22:46:13,16,M,Veggie,The Green Garden Pizza
+979,1,7/1/2015,22:46:13,12.25,S,Supreme,The Sicilian Pizza
+980,1,8/1/2015,11:17:13,12,S,Classic,The Big Meat Pizza
+981,1,8/1/2015,11:17:13,12.75,S,Chicken,The Chicken Alfredo Pizza
+982,1,8/1/2015,11:17:13,17.95,L,Veggie,The Four Cheese Pizza
+983,1,8/1/2015,11:17:13,16.5,L,Classic,The Hawaiian Pizza
+984,1,8/1/2015,11:39:07,12,S,Classic,The Italian Capocollo Pizza
+985,1,8/1/2015,11:39:07,20.75,L,Chicken,The Thai Chicken Pizza
+986,1,8/1/2015,11:39:07,12,S,Veggie,The Vegetables + Vegetables Pizza
+987,1,8/1/2015,11:49:50,20.75,L,Supreme,The Spicy Italian Pizza
+988,1,8/1/2015,11:54:14,16,M,Classic,The Napolitana Pizza
+989,1,8/1/2015,11:54:14,20.75,L,Supreme,The Spicy Italian Pizza
+990,1,8/1/2015,11:54:14,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+991,1,8/1/2015,12:06:09,16,M,Classic,The Classic Deluxe Pizza
+992,1,8/1/2015,12:06:09,14.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+993,1,8/1/2015,12:06:09,12.5,S,Supreme,The Spinach Supreme Pizza
+994,1,8/1/2015,12:07:21,20.5,L,Classic,The Classic Deluxe Pizza
+995,1,8/1/2015,12:07:21,16.5,M,Supreme,The Italian Supreme Pizza
+996,1,8/1/2015,12:07:21,11,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+997,1,8/1/2015,12:07:21,12.5,S,Supreme,The Pepper Salami Pizza
+998,1,8/1/2015,12:07:54,16.75,M,Chicken,The Barbecue Chicken Pizza
+999,1,8/1/2015,12:08:38,16,M,Veggie,The Vegetables + Vegetables Pizza
+1000,1,8/1/2015,12:13:08,16.75,M,Chicken,The Chicken Alfredo Pizza
